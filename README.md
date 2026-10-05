@@ -16,9 +16,6 @@ Ein automatisierter Python-Workflow zur Extraktion strukturierter Rechnungsdaten
 
 ## 📁 Projekt- & Ordnerstruktur
 
-Stelle sicher, dass im Hauptverzeichnis des Projekts folgende Ordner existieren:
-
-```text
 ├── inbox/            # Hier werden neue, unverarbeitete PDF-Rechnungen abgelegt
 ├── processed/        # Hierhin werden verarbeitete PDFs automatisch verschoben
 ├── .env              # Enthält deinen OPENAI_API_KEY (nicht auf GitHub pushen)
